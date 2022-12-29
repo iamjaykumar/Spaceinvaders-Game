@@ -1,3 +1,4 @@
+# Code by jay kumar follow on twitter and linkedin..
 import pygame
 import random
 
